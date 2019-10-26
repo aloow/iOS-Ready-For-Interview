@@ -3,8 +3,13 @@
 ## Git
 1. git fetch、git pull区别
 
-
 ## Swift
+
+## 多线程
+
+## 内存管理基础
+
+## Http、Https、Tcp/IP
 
 ## 设计模式
 
