@@ -1,7 +1,14 @@
 # iOS-Ready-For-Interview
 
-## 
+## Git
+1. git fetch、git pull区别
 
+
+## Swift
+
+## 设计模式
+
+### 参考资料
 
 -----说明
 专业知识上：
