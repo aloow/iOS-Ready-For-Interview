@@ -22,6 +22,11 @@
 ### 《iOS与OS X多线程和内存管理》
 
 ## 设计模式
+* 题目有
+  * 说说你对 MVC 和 MVVM 的理解
+  * MVC 具有什么样的优势，各个模块之间怎么通信，比如点击 Button 后 怎么通知 Model
+* 个人总结
+
 ### https://juejin.im/post/5c51b959f265da6115112e3e
 ### 掘金 搜设计模式
 ### 微信读书 设计模式之禅
@@ -38,6 +43,9 @@
 ## 知识框架
 https://juejin.im/post/5da6d14ae51d4524b601b78a 面试题
 https://www.iweslie.com/index.php/archives/93/ 面试题
+
+## 面试题
+[bat-offer](https://github.com/bestswifter/blog/blob/master/articles/bat-offer.md)
 
 
 -------------------说明---------------------------------------
