@@ -1,68 +1,58 @@
 # iOS-Ready-For-Interview
+认真工作！热爱生活！
+系统学习，包括方向，已经掌握方向的路径
+---
 
-## Git
-1. git fetch、git pull区别
+## 思维导图
 
-## 语言 Swift OC
+## 代码到应用
+* 《程序员的自我修养》
 
-## 网络
-### HTTP
-### Https
-### Tcp/IP
+## 语言
+* OC
+ * 内存管理、内存优化、内存布局 《iOS与OS X多线程和内存管理》《52个有效方法》
+ * Runtime、Runloop
+* Swift
+ * Swift源码中基本数据结构实现
+ * 进阶用法《objccn-swifter-tips》《objccn-advanced-swift》
 
-## 多线程
+## UIKit
+ * UIView、UIViewController生命周期
+ * 事件响应链
+ * UItableView优化
+ * 单元测试
 
-## iOS UIKit
-### 事件响应链
-### TableView性能优化
-### UIImage 圆角设置优化
-### 缓存数据持久化
+## 数据库&缓存
+* 缓存
+ * SQLLife 极客时间课程 差异和性能优化
+ * Realm
+* 缓存
+ * YYCache源码
+ * Kingfish源码
 
-## 内存管理 & Block
-### 《iOS与OS X多线程和内存管理》
+## 网络编程
+* Http/Https 《图解http/https》
+* TCP/IP 《图解TCP/IP》
+* 极客时间 趣谈网络协议
 
-## 设计模式
-* 题目有
-  * 说说你对 MVC 和 MVVM 的理解
-  * MVC 具有什么样的优势，各个模块之间怎么通信，比如点击 Button 后 怎么通知 Model
-* 个人总结
+## 跨平台
+* Fullter使用
+* 实现机制
+* [Flutter中文网](https://flutterchina.club/)
 
-### https://juejin.im/post/5c51b959f265da6115112e3e
-### 掘金 搜设计模式
-### 微信读书 设计模式之禅
-### 小专栏  J_Knight iOS进阶之路 面向对象设计的设计模式
+## 数据结构&算法
+* [我的另外一个库](https://github.com/aloow/DataStructure-Algorithm/blob/master/README.md)
+* 字符串
+* 数组与排序
+* 链表与数
+* 动态或贪心
+* [LeetCode中文网](https://leetcode-cn.com/explore/interview/card/bytedance/)
 
-## 数据结构 & 算法
-小专栏 图解数据结构
-
-## 参考资料
+## 其他参考资料 关于面试题
+* [面试题](https://juejin.im/post/5da6d14ae51d4524b601b78a)
+* [面试题](https://www.iweslie.com/index.php/archives/93/)
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
 * [bestswifter blog](https://github.com/bestswifter/blog)
 * [iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)
+* [bat-offer](https://github.com/bestswifter/blog/blob/master/articles/bat-offer.md)
 
-## 知识框架
-https://juejin.im/post/5da6d14ae51d4524b601b78a 面试题
-https://www.iweslie.com/index.php/archives/93/ 面试题
-
-## 面试题
-[bat-offer](https://github.com/bestswifter/blog/blob/master/articles/bat-offer.md)
-
-
--------------------说明---------------------------------------
-#### 专业知识上：
-1. 在分点知识下
-2. 具体问题
-3. 解答说明
-4. 项目中应用
-
-#### 具体做法：
-问题1：
-参考资料：
-本人总结：
-
-#### 算法上
-1. 问题
-2. 伪代码，步骤
-3. LeetCode代码 Python
-
-#### 具体做法：
