@@ -38,6 +38,7 @@
 * Fullter使用
 * 实现机制
 * [Flutter中文网](https://flutterchina.club/)
+* [Flutter电子书](https://book.flutterchina.club/)
 
 ## 数据结构&算法
 * [我的另外一个库](https://github.com/aloow/DataStructure-Algorithm/blob/master/README.md)
