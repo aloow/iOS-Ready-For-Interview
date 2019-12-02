@@ -1,7 +1,6 @@
 # iOS-Ready-For-Interview
 认真工作！热爱生活！
 系统学习，包括方向，已经掌握方向的路径
----
 
 ## 思维导图
 
@@ -49,6 +48,8 @@
 * [LeetCode中文网](https://leetcode-cn.com/explore/interview/card/bytedance/)
 
 ## 其他参考资料 关于面试题
+* [iOS开发舆图](https://xiaozhuanlan.com/topic/7365849012)
+* [极客时间](https://time.geekbang.org/)
 * [面试题](https://juejin.im/post/5da6d14ae51d4524b601b78a)
 * [面试题](https://www.iweslie.com/index.php/archives/93/)
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
