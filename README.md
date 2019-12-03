@@ -2,7 +2,7 @@
 系统学习，包括方向，已经掌握方向的路径
 
 ## 思维导图
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-12-02%20%E4%B8%8A%E5%8D%8810.58.02.png" alt="Swift logo" height="400" >
+<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
 ## 代码到应用
 * 《程序员的自我修养》
