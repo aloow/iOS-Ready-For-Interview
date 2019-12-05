@@ -5,9 +5,10 @@
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
-## 代码到应用
-* 《程序员的自我修养》
-* [读书笔记之一](https://www.jianshu.com/p/c6ab07042c7e)
+## 源代码到App，这个过程纠结经历了什么
+* 《程序员的自我修养》非常推荐的一本书
+* [读书笔记之第一部分](https://www.jianshu.com/p/c6ab07042c7e)
+* [读书笔记之第二部分](https://www.jianshu.com/p/4c153b34f75f) 未完待续...
 
 ## 单元测试
 《iOS Test Driven Development by Tutorials》
