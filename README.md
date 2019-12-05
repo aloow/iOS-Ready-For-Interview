@@ -1,5 +1,6 @@
 # iOS-Ready-For-Interview
-系统学习，包括方向，已经掌握方向的路径
+每天清晨睁开眼，多愿你开心一点！
+按计划愉快有效的前行！
 
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
