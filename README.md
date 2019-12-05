@@ -1,6 +1,6 @@
 # iOS-Ready-For-Interview
-每天清晨睁开眼，多愿你开心一点！
-按计划愉快有效的前行！
+* 每天清晨睁开眼，都愿你开心一点！
+* 按计划愉快有效的前行！
 
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
