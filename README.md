@@ -2,6 +2,9 @@
 * 每天清晨睁开眼，都愿你开心一点！
 * 按计划愉快有效的前行！
 
+## Tip
+对于看官方文档或者国外博客吃力的朋友，可以用google的翻译功能，跟原文差别比较大的部分再看英文原文，这样看文档或者博客效率高很多，毕竟我们是吸收知识，而不是来学英语的。
+
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
