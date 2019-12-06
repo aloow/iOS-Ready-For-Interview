@@ -28,9 +28,13 @@
 * 单元测试
 
 ## 多线程
-* 原生生成线程
+* 创建线程与线程保活。[线程管理](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2)、[线程保活](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW1)
+* Operation [Raywenderlich](https://www.raywenderlich.com/5293-operation-and-operationqueue-tutorial-in-swift)
 * GCD原理
 * [锁和锁的应用](https://www.jianshu.com/p/8173d0e6dcee)
+
+## 性能检测
+* Instruments工具 [raywenderlich教程](https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started)
 
 ## 数据库&缓存
 * 缓存
