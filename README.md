@@ -67,6 +67,7 @@
 * 链表与数
 * 动态或贪心
 * [LeetCode中文网](https://leetcode-cn.com/explore/interview/card/bytedance/)
+* [面试精选100题](https://leetcode-cn.com/problemset/top/)
 #### 其他重要概念
 * [Hash](https://mp.weixin.qq.com/s/Q0w59YQmZN7tWxSXPR1vrA)
 
