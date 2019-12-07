@@ -37,7 +37,7 @@
 * [锁和锁的应用](https://www.jianshu.com/p/8173d0e6dcee)
 
 ## 性能检测
-* Instruments工具 [raywenderlich教程](https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started)
+* Instruments工具 [raywenderlich教程](https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started) 1.检测内存泄漏 2.内存增长 3.线程执行时间
 * [官方视频](https://developer.apple.com/videos/play/wwdc2019/411/)
 * Instruments help
 
