@@ -8,7 +8,7 @@
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
-## 源代码到App，这个过程纠结经历了什么
+## 源代码到App
 * 《程序员的自我修养》非常推荐的一本书
 * [读书笔记之第一部分](https://www.jianshu.com/p/c6ab07042c7e)
 * [读书笔记之第二部分](https://www.jianshu.com/p/4c153b34f75f) 未完待续...
@@ -19,7 +19,8 @@
 ## 语言
 * OC
  * 内存管理、内存优化、内存布局 《iOS与OS X多线程和内存管理》《52个有效方法》
- * Runtime、Runloop 实践：1.防止按钮重复点击
+ * Runtime [无痕埋点](https://xietao3.com/2017/05/dataStatistics/)
+ * Runloop
 * Swift
  * Swift源码中基本数据结构实现
  * 进阶用法《objccn-swifter-tips》《objccn-advanced-swift》
@@ -83,6 +84,8 @@
 * [bat-offer](https://github.com/bestswifter/blog/blob/master/articles/bat-offer.md)
 * [awesome-ios](https://github.com/vsouza/awesome-ios#cache)
 
+
+
 ## 暂用
 ### 第一阶段
 1. Runtime
@@ -90,6 +93,13 @@
 * 消息转发流程
 
 1.1 实践：
+无痕埋点
+1.页面展示路径 UIViewController  
+目标：页面展示次数 停留时间
+2.用户点击按钮事件  
+目标：页面 哪个按钮 点击了多少次
+3.上下滑动scroll view \ table view
+目标：scrollview 监听draging，tableView点击row section
 
 
 2. Runloop
