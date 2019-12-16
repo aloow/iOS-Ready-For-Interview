@@ -84,4 +84,38 @@
 * [awesome-ios](https://github.com/vsouza/awesome-ios#cache)
 
 ## 暂用
-[https://www.raywenderlich.com/960290-ios-unit-testing-and-ui-testing-tutorial]
+### 第一阶段
+1. Runtime
+* 对象结构
+* 消息转发流程
+
+1.1 实践：
+
+
+2. Runloop
+* 与线程的关系
+
+3. 多线程与锁
+
+
+
+### 第二阶段
+1. UIKit
+
+2. 性能检测
+
+3. 性能优化
+
+4. 单元测试
+
+
+### 第三阶段
+1. 网络编程
+
+2. 数据库&缓存
+
+3. 开发框架与设计模式
+
+### 第四阶段
+1. 跨平台
+2. 计算机组成原理
