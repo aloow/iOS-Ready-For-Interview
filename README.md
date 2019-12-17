@@ -1,35 +1,35 @@
 # iOS-Ready-For-Interview
-* 每天清晨睁开眼，都愿你开心一点！
-* 按计划愉快有效的前行！
-
-## Tip
-对于看官方文档或者国外博客吃力的朋友，可以用google的翻译功能，跟原文差别比较大的部分再看英文原文，这样看文档或者博客效率高很多，毕竟我们是吸收知识，而不是来学英语的。
 
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
-## 源代码到App
+## 第一阶段
+---
+## 源代码到App (理解)
 * 《程序员的自我修养》非常推荐的一本书
 * [读书笔记之第一部分](https://www.jianshu.com/p/c6ab07042c7e)
 * [读书笔记之第二部分](https://www.jianshu.com/p/4c153b34f75f) 未完待续...
 
-## 单元测试
+## 单元测试 (跟着做)
 《iOS Test Driven Development by Tutorials》
 
 ## 语言
-* OC
- * 内存管理、内存优化、内存布局 《iOS与OS X多线程和内存管理》《52个有效方法》
- * Runtime [无痕埋点](https://xietao3.com/2017/05/dataStatistics/)
- * Runloop
-* Swift
- * Swift源码中基本数据结构实现
- * 进阶用法《objccn-swifter-tips》《objccn-advanced-swift》
+### OC
+* 1.内存管理
+* Runtime  2.对象内存布局 3.消息转发 4.关联对象
+* Runloop 5.线程保活 6.NSTimer定时器
+准备资料：
+《iOS与OS X多线程和内存管理》《52个有效方法》
+实践:
+1. [无痕埋点](https://xietao3.com/2017/05/dataStatistics/)
+
+### Swift
+《objccn-swifter-tips》《objccn-advanced-swift》
 
 ## UIKit
 * UIView、UIViewController生命周期
 * 事件响应链
 * UItableView优化
-* 单元测试
 
 ## 多线程
 * 创建线程与线程保活。[线程管理](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/CreatingThreads/CreatingThreads.html#//apple_ref/doc/uid/10000057i-CH15-SW2)、[线程保活](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW1)
@@ -37,6 +37,8 @@
 * GCD原理
 * [锁和锁的应用](https://www.jianshu.com/p/8173d0e6dcee)
 
+## 第二阶段
+---
 ## 性能检测
 * Instruments工具 [raywenderlich教程](https://www.raywenderlich.com/397-instruments-tutorial-with-swift-getting-started) 1.检测内存泄漏 2.内存增长 3.线程执行时间
 * [官方视频](https://developer.apple.com/videos/play/wwdc2019/411/)
@@ -51,9 +53,8 @@
  * [Kingfish](https://github.com/onevcat/Kingfisher)
 
 ## 网络编程
-* Http/Https 《图解http/https》
-* TCP/IP 《图解TCP/IP》
-* 极客时间 趣谈网络协议
+* Http/Https 《图解http/https》封装一个网络库
+* TCP/IP 《图解TCP/IP》 趣谈网络协议
 * 原生URLSession与[Alamofire](https://github.com/Alamofire/Alamofire)区别
 
 ## 跨平台
