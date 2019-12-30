@@ -8,7 +8,7 @@
 ## 源代码到App (理解)
 * 《程序员的自我修养》非常推荐的一本书
 * [读书笔记之第一部分](https://www.jianshu.com/p/c6ab07042c7e)
-* [读书笔记之第二部分](https://www.jianshu.com/p/4c153b34f75f) 未完待续...
+* [思维导图](https://www.processon.com/view/link/5e094409e4b0250e8afbad8f)
 
 ## 单元测试 (跟着做)
 《iOS Test Driven Development by Tutorials》
