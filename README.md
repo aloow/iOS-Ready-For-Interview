@@ -5,8 +5,9 @@
 
 复盘了11、12月的准备，希望在明年初能有底气的出发
 希望能拿着行动指南，认真准备
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/reviewiOS.png" alt="BrainMapping" height="400" >
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/reviewAction.png" alt="BrainMapping" height="400" >
+
+<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/%E8%84%91%E5%9B%BE/reviewAction.png" alt="BrainMapping" height="400" >
+<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/%E8%84%91%E5%9B%BE/reviewiOS.png?raw=true" alt="BrainMapping" height="400" >
 
 ## 第一阶段
 ---
