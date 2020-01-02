@@ -3,6 +3,11 @@
 ## 思维导图
 <img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
 
+复盘了11、12月的准备，希望在明年初能有底气的出发
+希望能拿着行动指南，认真准备
+<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/reviewiOS.png" alt="BrainMapping" height="400" >
+<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/reviewAction.png" alt="BrainMapping" height="400" >
+
 ## 第一阶段
 ---
 ## 源代码到App (理解)
