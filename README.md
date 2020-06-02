@@ -1,22 +1,7 @@
 # iOS-Ready-For-Interview
 
-## 思维导图
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/images/BrainMapping.png" alt="BrainMapping" height="400" >
-
-复盘了11、12月的准备，希望在明年初能有底气的出发
-希望能拿着行动指南，认真准备
-
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/%E8%84%91%E5%9B%BE/reviewiOS.png?raw=true" alt="BrainMapping" height="400" >
-
-<img src="https://github.com/aloow/iOS-Ready-For-Interview/blob/master/%E8%84%91%E5%9B%BE/reviewAction.png" alt="BrainMapping" height="400" >
-
-
 ## 第一阶段
 ---
-## 源代码到App (理解)
-* 《程序员的自我修养》非常推荐的一本书
-* [读书笔记之第一部分](https://www.jianshu.com/p/c6ab07042c7e)
-* [思维导图](https://www.processon.com/view/link/5e094409e4b0250e8afbad8f)
 
 ## 单元测试 (跟着做)
 《iOS Test Driven Development by Tutorials》
@@ -116,30 +101,15 @@
 目标：scrollview 监听draging，tableView点击row section
 
 
-2. Runloop
-* 与线程的关系
-
-3. 多线程与锁
 
 
 
-### 第二阶段
-1. UIKit
-
-2. 性能检测
-
-3. 性能优化
-
-4. 单元测试
 
 
-### 第三阶段
-1. 网络编程
 
-2. 数据库&缓存
 
-3. 开发框架与设计模式
 
-### 第四阶段
-1. 跨平台
-2. 计算机组成原理
+主动 在实际场景中的运用，解决特定痛点
+## Runtime
+
+
